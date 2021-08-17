@@ -1,7 +1,7 @@
 {
   "name": "vinrek",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@craco/craco": "^6.2.0",
     "@testing-library/jest-dom": "^5.14.1",
@@ -31,7 +31,7 @@
     "build": "craco build",
     "test": "craco test",
     "eject": "react-scripts eject"
-    
+
   },
   "eslintConfig": {
     "extends": [
